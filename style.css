@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  position: absolute;
+  justify-content: space-between;
+  background:linear-gradient(180deg, #7755ff , #6943FF , #2F2CE9 );
+  color: #cac9ff;
+  height: 356px;
+  width: 375px;
+  text-align: center;
+}
+
+#nombreT {
+  font-size: 56px;
+  color: white;
+}
+
+#surCent {
+  font-size: 16px;
+}
+
+h2 {
+  color: white;
+}
